@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="@project.version@" timestamp="2017-07-26T15:48:49+00:00">
+  <file name="/home/git/comparison/tests/ComparisonTest.php">
+    <violation beginline="69" endline="69" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$expected'.
+    </violation>
+  </file>
+</pmd>

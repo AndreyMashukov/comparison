@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Comparison" tests="2" assertions="6" failures="0" errors="0" time="0.034677">
+    <testsuite name="Tests\ComparisonTest" file="/home/git/comparison/tests/ComparisonTest.php" tests="2" assertions="6" failures="0" errors="0" time="0.034677">
+      <testcase name="testShouldGivePercentOfStringsCompare" class="Tests\ComparisonTest" file="/home/git/comparison/tests/ComparisonTest.php" line="17" assertions="3" time="0.019761"/>
+      <testcase name="testShouldCheckMatchStrings" class="Tests\ComparisonTest" file="/home/git/comparison/tests/ComparisonTest.php" line="49" assertions="3" time="0.014916"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
